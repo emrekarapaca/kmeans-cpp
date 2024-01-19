@@ -13,3 +13,6 @@ This project implements the K-Means clustering algorithm in C++. The algorithm i
    g++ -std=c++11 main.cpp Point.cpp KMeans.cpp -o kmeans
 Run the compiled executable:
 ./kmeans
+
+EXAMPLE
+![Figure_1_2cluster](https://github.com/emrekarapaca/kmeans-cpp/assets/62401859/e3da13bf-2a22-4234-ad54-ae619d0455ed)
