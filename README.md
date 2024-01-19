@@ -10,6 +10,6 @@ This project implements the K-Means clustering algorithm in C++. The algorithm i
 1. Open a terminal and navigate to the project directory.
 2. Compile the project using a C++ compiler:
    ```bash
-   g++ -std=c++11 main.cpp Cluster.cpp Point.cpp KMeans.cpp -o kmeans
+   g++ -std=c++11 main.cpp Point.cpp KMeans.cpp -o kmeans
 Run the compiled executable:
 ./kmeans
