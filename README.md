@@ -4,7 +4,7 @@ This project implements the K-Means clustering algorithm in C++. The algorithm i
 
 ## Requirements
 - C++ compiler (supporting C++11 or later)
-- Python 3.9 or later (optional, for data generation and visualization)
+- Python 3.9 or later (optional, for data visualization (matplotlib))
 
 ## How to Run
 1. Open a terminal and navigate to the project directory.
